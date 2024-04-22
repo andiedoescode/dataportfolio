@@ -2,7 +2,9 @@
 
 This repo is a collection of some of the work I completed for the Data Analytics Fundamentals & Practitioner program at Montgomery College.
 
-Coursework includes: SQL, Python, Microsoft Excel, Data Visualization (Power BI), Business Intelligence, Relational Databases (SQL Server), Statistics
+Coursework includes: SQL, Python, Microsoft Excel, Data Visualization (Power BI), Business Intelligence, Relational Databases (SQL Server), Statistics.
+
+You can also check out my repo for solutions to the [SQLZoo Tutorials](https://github.com/andiedoescode/SQLZoo-Solutions).
 
 ## Modules
 1. Data Acquisition
