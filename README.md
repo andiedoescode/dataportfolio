@@ -31,7 +31,7 @@ You can also check out my repo for solutions to the [SQLZoo Tutorials](https://g
    - List and List methods
    - Loops, Nested Loops
    - Functions
-   - Dictionaries, Nexted Dictionaries
+   - Dictionaries, Nested Dictionaries
 5. Data Visualization with Power BI
    - Data Analyst Survey dashboard
    - Blood Pressure dashboard
