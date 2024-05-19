@@ -1,4 +1,4 @@
-# Data Portfolio
+# Data Analytics Portfolio
 
 This repo is a collection of some of the work I completed for the Data Analytics Fundamentals & Practitioner program at Montgomery College.
 
